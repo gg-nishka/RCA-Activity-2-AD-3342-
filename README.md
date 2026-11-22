@@ -2,7 +2,7 @@
 
 ## Activity 2 – Regression and Classification Algorithms (CIE 2)
 Submission GitHub ID: https://github.com/complexiota.
-
+PROJECT LINK - https://github.com/gg-nishka/RCA-Activity-2-AD-3342-
 ## 1. Project Overview
 This project uses **Binary Logistic Regression** to predict whether a student will pass or fail based on study hours and attendance. The goal is to classify a student into one of two categories (Pass or Fail).
 
